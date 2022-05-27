@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "note": "db",
+      "url": "http://165.232.136.149:8080"
+    },
+    {
+      "note": "thenateway",
+      "url": "http://147.182.247.247:8080"
+    },
+    {
+      "note": "IdleZone",
+      "url": "http://fullnode.letsmove.fun"
+    }  
+  ]
+}
